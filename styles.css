@@ -12,13 +12,15 @@ html {
 }
 
 body {
+
   align-items: center;
-  background: linear-gradient(320deg, #201f20, #565654, #1c1d1d);
+  background: linear-gradient(320deg, #201f20, #8b8b88, #1c1d1d);
   display: flex;
   font-family: "Dosis", sans-serif;
   font-display: swap;
   height: inherit;
   justify-content: center;
+  
 }
 
 .wrapper {
